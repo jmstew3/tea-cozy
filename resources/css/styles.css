@@ -129,7 +129,7 @@ nav {
 #locations-section {
     display: flex;
     align-items: center;
-    background-image: url("/resources/images/img-locations-background.jpg");
+    background-image: url("../images/img-locations-background.jpg");
     background-repeat: none;
     background-size: cover;
     min-height: 500px;
